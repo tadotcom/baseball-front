@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761078095409",
+    "project_id": "kusabaseball-56b17",
+    "storage_bucket": "kusabaseball-56b17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761078095409:android:555c1321ebfb4fe1c27f10",
+        "android_client_info": {
+          "package_name": "com.example.kusa_baseball"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEGuejJHUDEpncQ89pNLwVKSFPEAeMhOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

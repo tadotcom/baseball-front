@@ -100,7 +100,7 @@ class SettingsScreen extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final packageInfo = ref.watch(packageInfoProvider);
-    const String domain = 'https://api.ai-next-answer.jp/api/v1';
+    const String domain = 'https://api.ai-next-answer.jp';
 
     return Scaffold(
       appBar: AppBar(
